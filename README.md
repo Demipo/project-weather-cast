@@ -1,10 +1,10 @@
 # project-weather-cast
 
-A mini weather forcast station that predicts the weather of any geographical area just by spsecifying the coordinate of the place of interest. 
+A mini weather forcast station that predicts the weather of any geographical area just by specifying the coordinate of the place of interest. 
 Forcast is given for a period of eight days, beginning with the current day of query. Forcasted weather parameters include:
-** minmum temperature **
-** maximun temperature **
-** the predominant weather of the day in picture **
+* **minmum temperature**
+* **maximun temperature**
+* **the predominant weather of the day in picture**.
 
 ## Available Scripts
 
