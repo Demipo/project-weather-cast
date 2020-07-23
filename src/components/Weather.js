@@ -1,11 +1,6 @@
 import React, { Component } from 'react'
 
 class Weather extends Component{
-    constructor(){
-        super();
-        
-    }
-
     render(){
         const iconSource = `http://openweathermap.org/img/wn/${this.props.icon}@2x.png`
         let min = 0, max = 0, unit = "C";
